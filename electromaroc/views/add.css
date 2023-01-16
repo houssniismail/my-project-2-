@@ -1,0 +1,49 @@
+.tuplate{
+    outline: none;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.inp{
+    margin-top: 20px;
+    width: 500px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    outline: none;
+    
+}
+.btn1{
+    margin-top: 20px;
+    width: 80px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: rgb(23, 52, 180);
+    margin-left: auto;
+    margin-right: auto;
+}
+#navbar{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    text-decoration: none;
+    /* justify-content: center; */
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: blue;
+    font-size: 30px;
+}
+
+li{
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+ .titel{
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+ }   
